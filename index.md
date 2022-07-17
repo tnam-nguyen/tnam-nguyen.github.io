@@ -2,9 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
-title: About Me
+layout: page
 ---
+
+<img src="files/FullSizeRender.jpg" width="200">
 👋 I am Nam Nguyen
 
 🏫 A driven third year student completing the Blended BS + MS Computer Science Program at Cal Poly SLO (March 2024)
