@@ -5,7 +5,9 @@
 layout: page
 ---
 
-<img src="files/FullSizeRender.jpg" width="200">
+<img src="files/FullSizeRender.jpg" width="200">  
+
+
 👋 I am Nam Nguyen
 
 🏫 A driven third year student completing the Blended BS + MS Computer Science Program at Cal Poly SLO (March 2024)
