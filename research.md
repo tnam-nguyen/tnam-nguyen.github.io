@@ -22,5 +22,5 @@ We propose a method to convert a 4K equirectangular panorama into a 3D mesh for 
 **[Application of deep learning for classification of intertidal eelgrass from drone-acquired imagery](https://www.mdpi.com/2072-4292/15/9/2321)**.   
 Krti Tallam, Nam Nguyen, Jonathan Ventura, Andrew Fricker, Sadie Calhoun, Jennifer O’Leary, Mauriça Fitzgibbons, Ian Robbins, and Ryan K Walter  
 Remote Sensing. 2023, 15(9), 2321  
-We apply image segmentation deep learning models to segment eelgrass extents from high-resolutional drone images of Morro Bay.  
+We apply deep learning models for image segmentation to segment eelgrass extents from high-resolutional drone images of Morro Bay.  
 [[Manuscript]](https://www.mdpi.com/2072-4292/15/9/2321) 
