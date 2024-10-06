@@ -5,13 +5,7 @@
 layout: page
 ---
 
-<img src="files/FullSizeRender.jpg" width="200">  
+<img src="files/profile.jpg" width="200">  
 
 
-👋 I am Nam Nguyen
-
-🏫 A driven third year student completing the Blended BS + MS Computer Science Program at Cal Poly SLO (March 2024)
-
-💻 I am passionate about using machine learning to solve interesting and meaningful image processing problems in the sciences, such as biology and geography. I am also interested in exploring the 3D world with different applications in augmented and virtual reality. 
-
-💼 I am currently open to internship and research opportunities, especially in computer vision, AR/VR and machine learning. Please feel free to contact me if you would like to connect or chat!
+I earned the B.S., and M.S. degrees in Computer Science from the California Polytechnic State University, San Luis Obispo in 2023 and 2024 respectively. My research focus is 3D computer vision and deep learning. I am interested in building new technologies to make it easier for everyone to generate 3D assets from 2D images and videos. I have also been involved in different projects integrating deep learning into remote sensing applications.
