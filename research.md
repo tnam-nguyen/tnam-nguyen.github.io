@@ -12,7 +12,7 @@ Master's Thesis
 We introduce a method to a method of learning high dynamic range  view synthesis from a set of low dynamic range views with unknown and varying exposure and white balance in as little as minutes.  
 [Project Page - Soon] [[Paper]](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=4476&context=theses)  [[Defense Slides]](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?filename=1&article=4476&context=theses&type=additional)
 
-**[3D Pano Inpainting: Building a VR Environment from a Single Input Panorama](https://jonathanventura.github.io/3d-pano-inpainting/)**. 
+**[3D Pano Inpainting: Building a VR Environment from a Single Input Panorama](https://jonathanventura.github.io/3d-pano-inpainting/)**.   
 Shivam Asija, Edward Du, Nam Nguyen, Stefanie Zollmann, and Jonathan Ventura  
 IEEE VR 2024 Poster  
 We propose a method to convert a 4K equirectangular panorama into a 3D mesh for real-time 6DOF view synthesis in VR headsets, with occluded regions inpainted by pretrained neural networks.  
