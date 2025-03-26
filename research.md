@@ -5,6 +5,10 @@ permalink: /research
 ---
 For a complete list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?user=jagKJ9QAAAAJ&hl=en)
 
+**[TeleForm](https://remix.ing/teleform)**  
+Collaborative Work @ Remix Inc.  
+A lightweight novel view synthesis method for 2D livestreaming inputs. 
+
 
 **[Instant HDR-NeRF: Fast Learning of High Dynamic Range View Synthesis With Unknown Exposure Settings](https://digitalcommons.calpoly.edu/theses/2795/)**.  
 Nam Nguyen  
