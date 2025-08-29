@@ -14,7 +14,7 @@ A lightweight novel view synthesis method for 2D livestreaming inputs.
 Nam Nguyen  
 Master's Thesis  
 Advisor: Prof. Jonathan Ventura  
-We introduce a method to a method of learning high dynamic range  view synthesis from a set of low dynamic range views with unknown and varying exposure and white balance in as little as minutes.  
+We introduce a method of learning high dynamic range  view synthesis from a set of low dynamic range views with unknown and varying exposure and white balance in as little as minutes.  
 [Project Page - Soon] [[Paper]](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=4476&context=theses)  [[Defense Slides]](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?filename=1&article=4476&context=theses&type=additional) [Code - Soon]
 
 **[3D Pano Inpainting: Building a VR Environment from a Single Input Panorama](https://jonathanventura.github.io/3d-pano-inpainting/)**.   
