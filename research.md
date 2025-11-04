@@ -6,7 +6,7 @@ permalink: /research
 For a complete list of my publications, please see my [Google Scholar](https://scholar.google.com/citations?user=jagKJ9QAAAAJ&hl=en)
 
 **[TeleForm](https://remix.ing/teleform)**  
-Collaborative Work @ Remix Inc.  
+Work @ Remix Inc.  
 A lightweight novel view synthesis method for 2D livestreaming inputs. 
 
 
