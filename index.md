@@ -8,4 +8,6 @@ layout: page
 <img src="files/profile.jpg" width="200">  
 
 
-I earned the B.S., and M.S. degrees in Computer Science from the California Polytechnic State University, San Luis Obispo in 2023 and 2024, with my research work advised by Prof. [Jonathan Ventura](https://jonathanventura.github.io/). My research focus is 3D computer vision and deep learning. I am interested in building new technologies to make it easier for everyone to generate 3D assets from 2D images and videos. I have also been involved in different projects integrating deep learning into remote sensing applications.
+I earned both my B.S. and M.S. degrees in Computer Science from California Polytechnic State University, San Luis Obispo, in 2022 and 2024, under the guidance of Prof. Jonathan Ventura.
+
+My research explores how much of the physical world can be recovered from camera sensors under challenging real-world conditions. One direction of my work combines 3D neural rendering with HDR imaging to reconstruct geometry and appearance from sparse, unconstrained, and variably exposed images and videos. Another focuses on recovering visual information under extreme exposure conditions through image denoising and HDR imaging. I have also applied deep learning to large-scale remote sensing problems.
